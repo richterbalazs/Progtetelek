@@ -20,7 +20,7 @@ lab_megszamlalas()
 
 def maxLabSzin():
     maxIndex = 0
-    for index in range(1, len(szekek), 1):
+    for index in range(0, len(szekek), 1):
         if szekek[index].labszam > szekek[maxIndex].labszam:
             maxIndex = index
     print(f"A legtöbb lábbal rendelkező szék színe: {szekek[maxIndex].szin}")

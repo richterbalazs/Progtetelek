@@ -1,13 +1,13 @@
-#import osszegzes
-#import szekProgram
+import osszegzes
+#import eldontes
 #import szekekNemOOP
 #import segedlet
 #import minKivalasztas
-import megszamlalas
+#import megszamlalas
 
-megszamlalas.megszamlalas()
+#megszamlalas.megszamlalas()
 #minKivalasztas.minKivalasztas()
 #oraiFeladat.oraiMegoldas()
 #segedlet.masodik()
 #segedlet.oszthato()
-#osszegzes.feladat()
+osszegzes.feladat()
