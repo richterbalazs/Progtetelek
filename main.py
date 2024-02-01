@@ -2,9 +2,11 @@
 #import szekProgram
 #import szekekNemOOP
 #import segedlet
-import minKivalasztas
+#import minKivalasztas
+import megszamlalas
 
-minKivalasztas.minKivalasztas()
+megszamlalas.megszamlalas()
+#minKivalasztas.minKivalasztas()
 #oraiFeladat.oraiMegoldas()
 #segedlet.masodik()
 #segedlet.oszthato()
