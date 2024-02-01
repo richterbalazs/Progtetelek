@@ -1,8 +1,11 @@
 #import osszegzes
 #import szekProgram
 #import szekekNemOOP
-import segedlet
+#import segedlet
+import minKivalasztas
 
-segedlet.masodik()
-segedlet.oszthato()
+minKivalasztas.minKivalasztas()
+#oraiFeladat.oraiMegoldas()
+#segedlet.masodik()
+#segedlet.oszthato()
 #osszegzes.feladat()
